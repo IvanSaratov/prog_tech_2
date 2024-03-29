@@ -49,7 +49,7 @@ CREATE TABLE [dbo].[JobPerson]
 )
 ```
 
-(Код формы)[Form1.cs]
+[Код формы](Form1.cs)
 
 ![](hh.png)
 
